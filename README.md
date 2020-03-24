@@ -2,7 +2,7 @@
 
 This app fetches selected data from the Space-X API and displays it in a list of Launches. Each launch has its own page with further details.
 
-## The following technologies and frameworks were used to build this app
+## Technologies and frameworks used
 
 > React, GraphQL, Apollo app that uses the SpaceX API to display launches
 
@@ -14,7 +14,7 @@ This app fetches selected data from the Space-X API and displays it in a list of
 
 ```bash
 # Clone project
-git clone
+git clone https://github.com/pedrotrigomiranda/space-x-api.git
 cd space-x-api
 
 # Install dependencies (server & client)
